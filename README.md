@@ -8,6 +8,8 @@ It can be observed from the video that the addition of artificial viscosity help
 
 It should also be noted that the usage of large amounts of numerical dissipiation can smooth the gradients and cost the accuracy of the solution. Hence the selection of the proportion of artificial viscosity is always dependent on the problem-type.
 
+The analytical solutions were obtained from the book referenced below
+
 References:
 Computational Fluid Dynamics: The basics with applications by JD Anderson
 Link: Anderson, J.. “Computational fluid dynamics : the basics with applications.” (1995).
